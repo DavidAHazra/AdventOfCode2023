@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+venv/
+__pycache__/
+
+**/target/
+Cargo.lock
