@@ -14,5 +14,5 @@ This year I'm learning Rust, so I'll provide solutions in Python **and** Rust.
 
 | Advent Stage |                                    Python Solution                                           | Rust Solution |                Time                | Space |
 |:------------:|:--------------------------------------------------------------------------------------------:|:-------------:|:----------------------------------:|:-----:|
-|    Day 1     | [Part 1](https://github.com/DavidAHazra/AdventOfCode2023/blob/main/A-day-1/python/part-1.py) | [Part 1](https://github.com/DavidAHazra/AdventOfCode2023/blob/main/A-day-1/rust/part_1.rs) |                O(n)                | O(1)  |
-|              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2023/blob/main/A-day-1/python/part-2.py) | [Part 2](https://github.com/DavidAHazra/AdventOfCode2023/blob/main/A-day-1/rust/part_2.rs)|               O(n)                | O(1)  |
+|    Day 1     | [Part 1](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/A-day-1/python/part-1.py) | [Part 1](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/A-day-1/rust/part_1.rs) |                O(n)                | O(1)  |
+|              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/A-day-1/python/part-2.py) | [Part 2](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/A-day-1/rust/part_2.rs)|               O(n)                | O(1)  |
