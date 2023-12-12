@@ -8,7 +8,7 @@ to a variable in some way that does not affect the Space complexity.
 For those days where I have not yet completed both parts, I will not be pushing my solutions
 (to give me time to work on them :)).
 
-These solutions work on my input, but they're not tested rigourously so please feel free to try them out and open a PR to fix any issues.
+These solutions work on my input, but they're not tested rigorously so please feel free to try them out and open a PR to fix any issues.
 
 This year I'm learning Rust, so I'll *try* provide solutions in Python *and* Rust. This may not always be done immediately :).
 
@@ -32,3 +32,5 @@ This year I'm learning Rust, so I'll *try* provide solutions in Python *and* Rus
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/G-day-7/python/part-2.py) |                                                                                                  |      O(n log n)       | O(n)  |
 |    Day 8     | [Part 1](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/H-day-8/python/part-1.py) |                                                                                                  |  O($n + V \times I$)  | O(n)  |
 |              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/H-day-8/python/part-2.py) |                                                                                                  |  O($n + V \times I$)  | O(n)  |
+|    Day 9     | [Part 1](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/I-day-9/python/part-1.py) |                                                                                                  |         O(n)          | O(n)  |
+|              | [Part 2](https://github.com/DavidAHazra/AdventOfCode2023/blob/master/I-day-9/python/part-2.py) |                                                                                                  |         O(n)          | O(n)  |
