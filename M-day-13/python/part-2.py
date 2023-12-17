@@ -14,7 +14,6 @@ def lines_above_mirror(pattern):
 
 
 if __name__ == '__main__':
-    # Idea: use binary array for each row, use XOR to find differences
     note_summary_sum = 0
     with open("../input.txt", "r") as input_file:
         for notes in input_file.read().split("\n\n"):
